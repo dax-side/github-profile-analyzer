@@ -68,7 +68,7 @@ The skill level calculation is just a simple scoring system based on repo count,
 
 ---
 
-[Read about how I built this](https://your-hashnode-link-here) - Day 1 of my coding journey
+[Read about how I built this](https://daxside.hashnode.dev/day-1-i-finally-get-domain-driven-design) - Day 1 of my coding journey
 
 ## Installation
 
